@@ -1,16 +1,17 @@
-h1 align="center">Hi 👋, I'm Zachary Smith</h1>
+
+<h1>Hi 👋, I'm Zach. </h1>
 <h3 align="center">Software Developer coming soon... November 2022</h3>
 
 - 🔭 I’m currently working on **learning C# on the backend portion of my fullstack course.**
 
 - 👯 I’m looking to collaborate on **anything. Open to help and learn.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/zach-smith2993/**
+- 📫 How to reach me **zach2993@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zach smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zach smith" height="30" width="40" /></a>
-<a href="https://fb.com/zachary smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zachary smith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zach smith" target="https://www.linkedin.com/in/zach-smith2993/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zach smith" height="30" width="40" /></a>
+<a href="https://fb.com/zachary smith" target="https://www.facebook.com/zachary.smith.336333"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zachary smith" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
