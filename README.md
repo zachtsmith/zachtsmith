@@ -1,8 +1,8 @@
 
 <h1>Hi 👋, I'm Zach. </h1>
-<h3 align="center">Software Developer coming soon... November 2022</h3>
+<h3 align="center">Fullstack Bootcamp Grad from Nashville Software School</h3>
 
-- 🔭 I’m currently working on **learning C# on the backend portion of my fullstack course.**
+- 🔭 I’m currently working on ** stretch goals for my final capstone project, Legacy. Check it out, its pinned below.**
 
 - 👯 I’m looking to collaborate on **anything. Open to help and learn.**
 
